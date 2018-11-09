@@ -1,0 +1,463 @@
+
+  <NoSqlDb>
+    <Key>
+      Convert.h
+    </Key>
+    <DataValue>
+      <name>
+        Convert.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        Implement serialization to and from strings
+      </data>
+    </DataValue>
+    <Key>
+      Convert.cpp
+    </Key>
+    <DataValue>
+      <name>
+        Convert.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        Convert.h Utilities.h
+      </children>
+      <data>
+        Implement serialization to and from strings
+      </data>
+    </DataValue>
+     <Key>
+      CppProperties.h
+    </Key>
+    <DataValue>
+      <name>
+        CppProperties.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        Implement serialization to and from strings
+      </data>
+    </DataValue>
+    <Key>
+      CppProperties.cpp
+    </Key>
+    <DataValue>
+      <name>
+        CppProperties.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        CppProperties.h
+      </children>
+      <data>
+        Defines read/write and read only properties
+      </data>
+    </DataValue>
+    <Key>
+      NoSqlDb.h
+    </Key>
+    <DataValue>
+      <name>
+        NoSqlDb.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        key/value pair in-memory database 
+      </data>
+    </DataValue>
+    <Key>
+      NoSqlDb.cpp
+    </Key>
+    <DataValue>
+      <name>
+        NoSqlDb.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        NoSqlDb.h XmlParser.h
+      </children>
+      <data>
+        key/value pair in-memory database
+      </data>
+    </DataValue>
+    <Key>
+      Query.h
+    </Key>
+    <DataValue>
+      <name>
+        Query.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        implement query on keys and elements  
+      </data>
+    </DataValue>
+    <Key>
+      Query.cpp
+    </Key>
+    <DataValue>
+      <name>
+        Query.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        Query.h NoSqlDb.h
+      </children>
+      <data>
+        implement query on keys and elements
+      </data>
+    </DataValue>
+    <Key>
+      Help.h
+    </Key>
+    <DataValue>
+      <name>
+        Help.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        StrHelper.h
+      </children>
+      <data>
+        Implement toXML and fromXML
+      </data>
+    </DataValue>
+    <Key>
+      Help.cpp
+    </Key>
+    <DataValue>
+      <name>
+        Help.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        Help.h StrHelper.h
+      </children>
+      <data>
+        Implement toXML and from XML
+      </data>
+    </DataValue>
+    <Key>
+      StrHelper.h
+    </Key>
+    <DataValue>
+      <name>
+        StrHelper.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+
+      </children>
+      <data>
+        Trim utilities for std::string
+      </data>
+    </DataValue>
+    <Key>
+      Utilities.h
+    </Key>
+    <DataValue>
+      <name>
+        Utilities.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        Provides utilities for convenient use  
+      </data>
+    </DataValue>
+    <Key>
+      Utilities.cpp
+    </Key>
+    <DataValue>
+      <name>
+        Utilities.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        Utilities.h
+      </children>
+      <data>
+        Provides utilities for convenient use
+      </data>
+    </DataValue>
+    <Key>
+      XmlDocument.h
+    </Key>
+    <DataValue>
+      <name>
+        XmlDocument.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        a container of XmlElement nodes  
+      </data>
+    </DataValue>
+    <Key>
+      XmlDocument.cpp
+    </Key>
+    <DataValue>
+      <name>
+        XmlDocument.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        XmlDocument.h Utilities.h XmlParser.h
+      </children>
+      <data>
+        a container of XmlElement nodes
+      </data>
+    </DataValue>
+    <Key>
+        XmlElement.h
+    </Key>
+    <DataValue>
+      <name>
+        XmlElement.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        define XML Element types  
+      </data>
+    </DataValue>
+    <Key>
+      XmlElement.cpp
+    </Key>
+    <DataValue>
+      <name>
+       XmlElement.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        XmlElement.h
+      </children>
+      <data>
+        define XML Element types 
+      </data>
+    </DataValue>
+    <Key>
+        XmlParser.h
+    </Key>
+    <DataValue>
+      <name>
+        XmlParser.h
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        h file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        Persist database to and from XML file  
+      </data>
+    </DataValue>
+    <Key>
+      XmlParser.cpp
+    </Key>
+    <DataValue>
+      <name>
+        XmlParser.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        XmlParser.h NoSqlDb.h
+      </children>
+      <data>
+        Persist database to and from XML file 
+      </data>
+    </DataValue>
+    <Key>
+      Test.cpp
+    </Key>
+    <DataValue>
+      <name>
+        Test.cpp
+      </name>
+      <category>
+        Project1
+      </category>
+      <description>
+        cpp file
+      </description>
+      <timeDate>
+        07-02-2017 17-08-15
+      </timeDate>
+      <children>
+        
+      </children>
+      <data>
+        demonstrates requirements #2-#10 
+      </data>
+    </DataValue>
+  </NoSqlDb>

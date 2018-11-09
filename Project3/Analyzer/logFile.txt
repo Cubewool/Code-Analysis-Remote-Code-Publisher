@@ -1,0 +1,25 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Fri Mar 10 22:02:03 2017
+     Path: "C:\Users\ginny\Desktop\CodeAnalyzerEx\CodeAnalyzerEx\Analyzer"
+     Args: TypeAnal.cpp, TypeAnal.h, TypeTable.cpp, TypeTable.h, /a, /r, /f
+                                                                               
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: TypeTable.h : 47 - struct Info
+                std :: string Type ; 
+              public data: TypeTable.h : 48 - struct Info
+                std :: string Namespace ; 
+              public data: TypeTable.h : 49 - struct Info
+                std :: string File ; 
+              public data: TypeTable.h : 71 - class TypeTable
+                std :: unordered_map < Name , Information > store ; 
+
+
+    searched     4 dirs
+   processed     4 files

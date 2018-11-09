@@ -1,0 +1,63 @@
+
+  <NoSqlDb>
+    <DataValue>
+      <name>
+        elem1
+      </name>
+      <category>
+        test1
+      </category>
+      <timeDate>
+        03-03-2017 23:39:59
+      </timeDate>
+      <description>
+        the new elem1
+      </description>
+      <children>
+        
+      </children>
+      <data>
+        111
+      </data>
+    </DataValue>
+    <DataValue>
+      <name>
+        elem3
+      </name>
+      <category>
+        test3
+      </category>
+      <timeDate>
+        03-03-2017 23:39:59
+      </timeDate>
+      <description>
+        the third one
+      </description>
+      <children>
+        elem4 
+      </children>
+      <data>
+        elem3StrData
+      </data>
+    </DataValue>
+    <DataValue>
+      <name>
+        elem4
+      </name>
+      <category>
+        test4
+      </category>
+      <timeDate>
+        03-03-2017 23:39:59
+      </timeDate>
+      <description>
+        the fourth one
+      </description>
+      <children>
+        
+      </children>
+      <data>
+        elem4StrData
+      </data>
+    </DataValue>
+  </NoSqlDb>

@@ -1,0 +1,20 @@
+﻿  TypeTable.cpp
+  TypeAnal.cpp
+  Executive.cpp
+  DepPublisher.cpp
+  DepAnal.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  Executive.vcxproj -> C:\Users\ginny\Desktop\Project4Help\JingyiYang_Project4\Debug\CodeAnalyzer.exe
+  Executive.vcxproj -> C:\Users\ginny\Desktop\Project4Help\JingyiYang_Project4\Debug\CodeAnalyzer.pdb (Full PDB)

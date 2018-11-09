@@ -1,0 +1,42 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Thu Mar  2 20:49:54 2017
+     Path: "C:\Users\ginny\Desktop\687OOD\Project1-Help\OODProject1"
+     Args: *.h, *.cpp, *.cs, /a, /r, /f
+                                                                               
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             Tokenizer.cpp    function                               main     329      61       8
+
+              public data: CppProperties.cpp : 17 - class X
+                Property < std :: string > name ; 
+              public data: CppProperties.cpp : 18 - class X
+                Property < double > isMutable ; 
+              public data: CppProperties.cpp : 19 - class X
+                Property < const double > pi = 3 . 1415927 ; 
+              public data: CppProperties.cpp : 20 - class X
+                Property < const std :: string > constName = "a const name" ; 
+              public data: CppProperties.cpp : 71 - class Y
+                UpperCaseProperty name = "jim" ; 
+              public data: NoSqlDb.h : 76 - class Element
+                Property < Name > name ; 
+              public data: NoSqlDb.h : 77 - class Element
+                Property < Category > category ; 
+              public data: NoSqlDb.h : 78 - class Element
+                Property < TimeDate > timeDate ; 
+              public data: NoSqlDb.h : 79 - class Element
+                Property < Data > data ; 
+              public data: NoSqlDb.h : 80 - class Element
+                Property < Description > description ; 
+              public data: NoSqlDb.h : 81 - class Element
+                Property < Children > children ; 
+              public data: Query.h : 61 - class Query
+                std :: vector < Key > keysUnion ( std :: vector < Key > & key1 , std :: vector < Key > & key2 ) ; 
+
+
+    searched    43 dirs
+   processed    26 files
